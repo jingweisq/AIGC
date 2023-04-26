@@ -33,6 +33,8 @@ margin: 0 auto;
 background-color: #f2f2f2;
 padding: 30px; 
 text-algin: left;
+width: 80%;
+margin: 0 auto;
 }
 .news { 
 display: flex;
