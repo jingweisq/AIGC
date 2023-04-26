@@ -26,15 +26,13 @@ font-size: 1.2em;
 padding: 10px 20px;
 }
 section {
-width: 80%;
+width: 100%;
 margin: 0 auto;
 }
 .overview {
 background-color: #f2f2f2;
 padding: 30px; 
 text-algin: left;
-width: 80%;
-margin: 0 auto;
 }
 .news { 
 display: flex;
