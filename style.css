@@ -31,7 +31,8 @@ margin: 0 auto;
 }
 .overview {
 background-color: #f2f2f2;
-padding: 20px; 
+padding: 30px; 
+text-algin: left;
 }
 .news { 
 display: flex;
